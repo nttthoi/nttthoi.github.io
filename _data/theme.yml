@@ -5,13 +5,13 @@ highlight_color: '#3498db'
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
-  github: hanhduykaka
+  github: nttthoi
   #bitbucket: philipj
   #hacker_news: swanson
   #stackexchange: 348619
   #stackoverflow: 348619
   #twitter: _swanson
-  facebook: hanhduykaka
+  #facebook: hanhduykaka
   #tumblr: animalygifs
   #linkedin: philipjagielski
   #gplus: 110552447039675960964
@@ -19,7 +19,7 @@ social:
   #flickr: johndoe
 
 # "Xin Chào, Mình là _______"
-name: Tài Nè
+name: Thời Nè
 email: test@example.com
 tagline: "weak opinions, strongly held"
 
